@@ -1,1 +1,1 @@
-const develop = ["A","B"]
+const develop = ["A","B","F"]

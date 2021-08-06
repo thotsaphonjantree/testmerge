@@ -1,2 +1,2 @@
 const develop = ["A","C","F"]
-const develop = ["B"]
+const develop = ["B","D"]
